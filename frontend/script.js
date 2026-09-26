@@ -3,7 +3,7 @@
    Mới: Hiển thị avatar ứng viên tự động
 ───────────────────────────────────────── */
 
-const API_BASE = 'http://localhost:8000';
+const API_BASE = 'https://navati-app-ai-cv.onrender.com';
 
 // ── DOM refs ──
 const dropzone     = document.getElementById('dropzone');
